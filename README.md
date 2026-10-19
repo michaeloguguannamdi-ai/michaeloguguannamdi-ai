@@ -1,21 +1,18 @@
 <div align="center">
 
-<!-- CYBERSECURITY PROFILE BANNER -->
-<img src="assets/cybersecurity-banner.png" alt="Michael's Cybersecurity Banner" width="100%"/>
-
 # ⚡ MICHAEL OGUGUA NNAMDI
 
-### Aspiring Cybersecurity Professional | Student | Future Security Expert
+### `Aspiring Cybersecurity Professional | Student | Future Security Expert`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space;Learning+Cybersecurity+from+the+ground+up;Learn.+Build.+Secure.+Evolve.;Future+Cybersecurity+Professional." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+space;Learning+Cybersecurity+from+the+ground+up;Learn.+Build.+Secure.+Evolve.;Future+Cybersecurity+Professional." alt="Animated introduction"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/michaelogugguannamdi-ai)
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-00F5FF?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/michaelogugguannamdi-ai)
-[![Learning](https://img.shields.io/badge/Status-Always%20Learning-7B2FFF?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/michaelogugguannamdi-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/michaelogugguannamdi-ai)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00F5FF?style=for-the-badge&logo=kalilinux&logoColor=black)](https://github.com/michaelogugguannamdi-ai)
+[![Learning](https://img.shields.io/badge/Always-Learning-7B2FFF?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/michaelogugguannamdi-ai)
 
-**LEARN. BUILD. SECURE. EVOLVE.**
+### `LEARN // BUILD // SECURE // EVOLVE`
 
 </div>
 
@@ -23,39 +20,39 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Michael Ogugua Nnamdi**, a student and aspiring developer beginning my journey into cybersecurity.
+Hey! I'm **Michael Ogugua Nnamdi**, a student and aspiring developer beginning my journey into the world of cybersecurity.
 
-My ambition is to become an excellent cybersecurity professional, develop strong technical skills, and contribute to making the digital world safer.
+My ambition is to become a highly skilled cybersecurity professional, understand how digital systems work, and help protect them against cyber threats.
 
-I'm a beginner, and I'm ready to learn, practice, build, and improve one step at a time.
+I'm a beginner, but I'm committed to learning consistently, developing practical skills, and building a strong foundation in technology.
 
-- 🔐 **Primary focus:** Cybersecurity
-- 🌱 **Current level:** Beginner
-- 🎯 **Goal:** Become a highly skilled cybersecurity professional
-- 🧠 **Mindset:** Curiosity, discipline, and continuous learning
-- 🛡️ **Mission:** Learn how to identify risks and protect digital systems
+- 🔐 **Primary Focus:** Cybersecurity
+- 🌱 **Current Level:** Beginner
+- 🎯 **Career Goal:** Become a professional cybersecurity specialist
+- 🧠 **Mindset:** Learn continuously. Practice ethically. Improve daily.
+- 🛡️ **Mission:** Help make the digital world safer.
 
 ---
 
 ## 🎯 My Current Mission
 
-I'm focused on building a strong foundation before moving into advanced cybersecurity.
+I'm focused on mastering the fundamentals before advancing into more complex security concepts.
 
-| Learning Area | My Goal |
+| Learning Path | My Objective |
 |---|---|
 | 🌐 Networking | Understand IP addresses, DNS, ports, and protocols |
 | 🐧 Linux | Learn command-line tools and operating system fundamentals |
 | 🐍 Python | Develop programming and automation skills |
-| 🔐 Cybersecurity | Understand threats, vulnerabilities, and defense |
+| 🔐 Cybersecurity | Understand threats, vulnerabilities, and defenses |
 | 🛡️ Ethical Hacking | Learn authorized security testing |
 | 🔎 Security Analysis | Explore logs, alerts, and incident response |
-| 🔧 Git & GitHub | Document my learning and track future projects |
+| 🔧 Git & GitHub | Document my learning and future projects |
 
 ---
 
-## 🧰 Tech Stack & Learning Roadmap
+## 🧰 Tech Stack & Tools
 
-I'm a beginner, and these are the technologies I intend to learn and practice.
+*Currently exploring the technologies I want to master.*
 
 <div align="center">
 
@@ -70,26 +67,26 @@ I'm a beginner, and these are the technologies I intend to learn and practice.
 
 </div>
 
-*These badges represent my learning roadmap, not claims of professional proficiency.*
+> These technologies are part of my learning roadmap, not claims of professional proficiency.
 
 ---
 
 ## 🛡️ Cybersecurity Interests
 
-- 🔵 **Blue Team Security:** Monitoring, detection, and defense.
-- 🔴 **Ethical Hacking:** Understanding authorized security testing.
-- 🌐 **Network Security:** Learning how networks are protected.
-- 🔍 **Vulnerability Assessment:** Identifying and understanding security weaknesses.
-- 🤖 **Security Automation:** Exploring Python for security-related tasks.
-- 🧪 **Digital Forensics:** Learning how digital evidence is analyzed.
+I'm looking forward to exploring different areas of cybersecurity as my knowledge grows.
 
-My aim is to develop a solid foundation and discover which cybersecurity specialization suits me best.
+- 🔵 **Blue Team & Defensive Security** — Monitoring systems and detecting suspicious activity.
+- 🔴 **Ethical Hacking** — Learning how authorized security testing works.
+- 🌐 **Network Security** — Understanding how networks are protected.
+- 🔍 **Vulnerability Assessment** — Identifying and understanding security weaknesses.
+- 🤖 **Security Automation** — Exploring Python for security-related tasks.
+- 🧪 **Digital Forensics** — Learning how digital evidence is analyzed.
 
 ---
 
-## 📂 Projects & Labs
+## 📂 Projects & Learning Labs
 
-I'm building my foundation and plan to document practical projects as I complete them.
+I'm building my technical foundation and plan to document practical projects as I complete them.
 
 | Planned Project | Objective | Status |
 |---|---|---|
@@ -98,9 +95,9 @@ I'm building my foundation and plan to document practical projects as I complete
 | 🌐 Networking Lab Notes | Practice networking fundamentals | Planned |
 | 🔎 Security Analysis Lab | Explore sample security events | Planned |
 
-These are future learning projects, not completed achievements.
+*These are planned learning projects, not completed achievements.*
 
-As I complete them, I'll add the source code, explanations, and results here.
+As I complete projects, I'll publish the code, explain the concepts, and share what I learn.
 
 [![Explore My Repositories](https://img.shields.io/badge/Explore-My%20Repositories-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/michaelogugguannamdi-ai?tab=repositories)
 
@@ -110,7 +107,7 @@ As I complete them, I'll add the source code, explanations, and results here.
 
 <div align="center">
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelogugguannamdi-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
@@ -128,12 +125,14 @@ As I complete them, I'll add the source code, explanations, and results here.
 
 ## 🧠 My Philosophy
 
+I believe becoming a great cybersecurity professional takes more than knowing tools. It requires understanding systems, thinking critically, and practicing responsibly.
+
 - 📚 Learn the fundamentals before chasing advanced tools.
 - 🔬 Practice only in authorized environments.
 - 📝 Document what I learn and build.
 - 🧩 Treat challenges as opportunities to improve.
 - 🤝 Learn from the cybersecurity community.
-- 🔄 Stay curious and keep improving.
+- 🔄 Stay curious as technology evolves.
 
 > "Understand the technology. Understand the risk. Learn how to defend it."
 
@@ -163,7 +162,7 @@ I want to develop the knowledge, discipline, and practical experience needed to 
 
 Every concept I learn, every lab I complete, and every project I build will bring me closer to that goal.
 
-**I'm not here to pretend I know everything. I'm here to learn, grow, and become better.**
+**I'm not here to pretend I know everything. I'm here to learn, grow, build, and become better.**
 
 <div align="center">
 
